@@ -1,6 +1,9 @@
 # Documentação
 
-## Requisitos funcionais
+## Requisitos funcionais:
+  - Mostrar pontos e suas ```disponibilidade de sinal``` no território brasileiro;
+  - Disponibilizar ```áreas de ricos``` no território brasileiro;
+  - Controle de acesso, baseado em ```autenticação```.
 
 ----
 
@@ -21,9 +24,9 @@
 ----
 
 ## Tecnologias 
-  - Linguagem de programação: Python
-  - FrameWork: Streamlit (interface web)
-  - Biblioteca: streamlit-authenticator (autenticação)
-  - Banco de dados: Docker + MySQL
+  - ```Linguagem de programação```: Python.
+  - ```FrameWork```: Streamlit (interface web).
+  - ```Biblioteca```: streamlit-authenticator (autenticação).
+  - ```Banco de dados```: Docker + MySQL.
 
 ----
