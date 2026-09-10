@@ -20,6 +20,8 @@
 
 ## Design 
 
+https://www.figma.com/make/7g19mJam9E1NnCq3HGLmxb/Signal-Availability-Dashboard?t=ZdieuYzGOP5iTqv8-20&fullscreen=1
+
 ----
 
 ## Arquitetura
