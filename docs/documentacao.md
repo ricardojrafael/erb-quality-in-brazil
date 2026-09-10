@@ -7,7 +7,10 @@
 
 ----
 
-## Requisitos não funcionais
+## Requisitos não funcionais:
+  - Rotas protegidas, através de autenticação;
+  - Uso de criptografia para senhas;
+  - Design simples e responsivo. 
 
 ----
 
@@ -23,7 +26,7 @@
 
 ----
 
-## Tecnologias 
+## Tecnologias:
   - ```Linguagem de programação```: Python.
   - ```FrameWork```: Streamlit (interface web).
   - ```Biblioteca```: streamlit-authenticator (autenticação).
