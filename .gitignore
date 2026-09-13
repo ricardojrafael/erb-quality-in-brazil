@@ -1,0 +1,12 @@
+#Dados
+data/raw/**/*.zip
+data/raw/**/*.shp
+data/raw/**/*.shx
+data/raw/**/*.dbf
+data/raw/**/*.prj
+
+# Dados processados
+data/processed/*.gpkg
+
+# VS Code
+.vscode/
